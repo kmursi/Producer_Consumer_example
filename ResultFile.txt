@@ -1,0 +1,2299 @@
+
+compute-26-1:/Project_0$ ./pc
+
+Enter the producers number:
+1
+
+Enter the consumers number:
+1
+
+Producer thread number 0 has been created
+
+Producer 0 produced item: 1804289383.
+
+Consumer thread number 0 has been created
+
+Producer 0 produced item: 846930886.
+
+Producer 0 produced item: 1681692777.
+
+Producer 0 produced item: 1714636915.
+
+Producer 0 produced item: 1957747793.
+
+Producer 0 produced item: 424238335.
+
+Producer 0 produced item: 719885386.
+
+Producer 0 produced item: 1649760492.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1649760492.
+
+Consumer 0 consumed item: 719885386.
+
+Producer 0 produced item: 596516649.
+
+Producer 0 produced item: 1189641421.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1189641421.
+
+Consumer 0 consumed item: 596516649.
+
+Consumer 0 consumed item: 424238335.
+
+Consumer 0 consumed item: 1957747793.
+
+Consumer 0 consumed item: 1714636915.
+
+Consumer 0 consumed item: 1681692777.
+
+Consumer 0 consumed item: 846930886.
+
+Consumer 0 consumed item: 1804289383.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1025202362.
+
+Producer 0 produced item: 1350490027.
+
+Producer 0 produced item: 783368690.
+
+Producer 0 produced item: 1102520059.
+
+Producer 0 produced item: 2044897763.
+
+Producer 0 produced item: 1967513926.
+
+Producer 0 produced item: 1365180540.
+
+Producer 0 produced item: 1540383426.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1540383426.
+
+Consumer 0 consumed item: 1365180540.
+
+Consumer 0 consumed item: 1967513926.
+
+Consumer 0 consumed item: 2044897763.
+
+Consumer 0 consumed item: 1102520059.
+
+Consumer 0 consumed item: 783368690.
+
+Consumer 0 consumed item: 1350490027.
+
+Consumer 0 consumed item: 1025202362.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 304089172.
+
+Producer 0 produced item: 1303455736.
+
+Producer 0 produced item: 35005211.
+
+Producer 0 produced item: 521595368.
+
+Producer 0 produced item: 294702567.
+
+Producer 0 produced item: 1726956429.
+
+Producer 0 produced item: 336465782.
+
+Producer 0 produced item: 861021530.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 861021530.
+
+Consumer 0 consumed item: 336465782.
+
+Consumer 0 consumed item: 1726956429.
+
+Consumer 0 consumed item: 294702567.
+
+Consumer 0 consumed item: 521595368.
+
+Consumer 0 consumed item: 35005211.
+
+Consumer 0 consumed item: 1303455736.
+
+Consumer 0 consumed item: 304089172.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 278722862.
+
+Producer 0 produced item: 233665123.
+
+Producer 0 produced item: 2145174067.
+
+Consumer 0 consumed item: 2145174067.
+
+Consumer 0 consumed item: 233665123.
+
+Consumer 0 consumed item: 278722862.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 468703135.
+
+Producer 0 produced item: 1101513929.
+
+Producer 0 produced item: 1801979802.
+
+Producer 0 produced item: 1315634022.
+
+Producer 0 produced item: 635723058.
+
+Producer 0 produced item: 1369133069.
+
+Producer 0 produced item: 1125898167.
+
+Producer 0 produced item: 1059961393.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1059961393.
+
+Consumer 0 consumed item: 1125898167.
+
+Consumer 0 consumed item: 1369133069.
+
+Consumer 0 consumed item: 635723058.
+
+Consumer 0 consumed item: 1315634022.
+
+Consumer 0 consumed item: 1801979802.
+
+Consumer 0 consumed item: 1101513929.
+
+Consumer 0 consumed item: 468703135.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 2089018456.
+
+Producer 0 produced item: 628175011.
+
+Producer 0 produced item: 1656478042.
+
+Producer 0 produced item: 1131176229.
+
+Producer 0 produced item: 1653377373.
+
+Producer 0 produced item: 859484421.
+
+Producer 0 produced item: 1914544919.
+
+Producer 0 produced item: 608413784.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 608413784.
+
+Consumer 0 consumed item: 1914544919.
+
+Consumer 0 consumed item: 859484421.
+
+Consumer 0 consumed item: 1653377373.
+
+Consumer 0 consumed item: 1131176229.
+
+Consumer 0 consumed item: 1656478042.
+
+Consumer 0 consumed item: 628175011.
+
+Consumer 0 consumed item: 2089018456.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 756898537.
+
+Producer 0 produced item: 1734575198.
+
+Producer 0 produced item: 1973594324.
+
+Producer 0 produced item: 149798315.
+
+Producer 0 produced item: 2038664370.
+
+Producer 0 produced item: 1129566413.
+
+Producer 0 produced item: 184803526.
+
+Producer 0 produced item: 412776091.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 412776091.
+
+Consumer 0 consumed item: 184803526.
+
+Consumer 0 consumed item: 1129566413.
+
+Consumer 0 consumed item: 2038664370.
+
+Consumer 0 consumed item: 149798315.
+
+Consumer 0 consumed item: 1973594324.
+
+Consumer 0 consumed item: 1734575198.
+
+Consumer 0 consumed item: 756898537.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1424268980.
+
+Producer 0 produced item: 1911759956.
+
+Producer 0 produced item: 749241873.
+
+Producer 0 produced item: 137806862.
+
+Producer 0 produced item: 42999170.
+
+Producer 0 produced item: 982906996.
+
+Producer 0 produced item: 135497281.
+
+Producer 0 produced item: 511702305.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 511702305.
+
+Consumer 0 consumed item: 135497281.
+
+Consumer 0 consumed item: 982906996.
+
+Consumer 0 consumed item: 42999170.
+
+Consumer 0 consumed item: 137806862.
+
+Consumer 0 consumed item: 749241873.
+
+Consumer 0 consumed item: 1911759956.
+
+Consumer 0 consumed item: 1424268980.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 2084420925.
+
+Producer 0 produced item: 1937477084.
+
+Producer 0 produced item: 1827336327.
+
+producer thread: 0 ***********************exit**************************.
+
+Consumer 0 consumed item: 1827336327.
+
+Consumer 0 consumed item: 1937477084.
+
+Consumer 0 consumed item: 2084420925.
+
+consumer thread: 0 ***********************exit**************************.
+compute-26-1:/Project_0$ ./pc
+
+Enter the producers number:
+2    
+
+Enter the consumers number:
+2
+
+Producer thread number 0 has been created
+
+Producer 0 produced item: 1804289383.
+
+Producer thread number 1 has been created
+
+Producer 0 produced item: 846930886.
+
+Producer 0 produced item: 1681692777.
+
+Producer 0 produced item: 1714636915.
+
+Consumer thread number 0 has been created
+
+Consumer 0 consumed item: 1714636915.
+
+Consumer thread number 1 has been created
+
+Producer 1 produced item: 1957747793.
+
+Producer 1 produced item: 424238335.
+
+Producer 1 produced item: 719885386.
+
+Producer 1 produced item: 1649760492.
+
+Producer 1 produced item: 596516649.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 596516649.
+
+Consumer 1 consumed item: 1649760492.
+
+Consumer 1 consumed item: 719885386.
+
+Consumer 1 consumed item: 424238335.
+
+Consumer 1 consumed item: 1957747793.
+
+Consumer 1 consumed item: 1681692777.
+
+Consumer 1 consumed item: 846930886.
+
+Consumer 1 consumed item: 1804289383.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1189641421.
+
+Consumer 1 consumed item: 1189641421.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1025202362.
+
+Consumer 1 consumed item: 1025202362.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1350490027.
+
+Producer 0 produced item: 783368690.
+
+Producer 0 produced item: 1102520059.
+
+Producer 0 produced item: 2044897763.
+
+Producer 0 produced item: 1967513926.
+
+Producer 0 produced item: 1365180540.
+
+Producer 0 produced item: 1540383426.
+
+Producer 0 produced item: 304089172.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 304089172.
+
+Producer 0 produced item: 1303455736.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1303455736.
+
+Producer 0 produced item: 35005211.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 35005211.
+
+Producer 0 produced item: 521595368.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 521595368.
+
+Producer 0 produced item: 294702567.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 294702567.
+
+Consumer 1 consumed item: 1540383426.
+
+Consumer 1 consumed item: 1365180540.
+
+Consumer 1 consumed item: 1967513926.
+
+Consumer 1 consumed item: 2044897763.
+
+Consumer 1 consumed item: 1102520059.
+
+Consumer 1 consumed item: 783368690.
+
+Consumer 1 consumed item: 1350490027.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1726956429.
+
+Producer 0 produced item: 336465782.
+
+Producer 0 produced item: 861021530.
+
+Producer 0 produced item: 278722862.
+
+Producer 0 produced item: 233665123.
+
+Producer 0 produced item: 2145174067.
+
+Producer 0 produced item: 468703135.
+
+Producer 0 produced item: 1101513929.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1101513929.
+
+Producer 0 produced item: 1801979802.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1801979802.
+
+Consumer 1 consumed item: 468703135.
+
+Producer 0 produced item: 1315634022.
+
+Producer 0 produced item: 635723058.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 635723058.
+
+Consumer 0 consumed item: 1315634022.
+
+Producer 1 produced item: 1369133069.
+
+Producer 1 produced item: 1125898167.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1125898167.
+
+Producer 1 produced item: 1059961393.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1059961393.
+
+Consumer 0 consumed item: 1369133069.
+
+Producer 1 produced item: 2089018456.
+
+Producer 1 produced item: 628175011.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 628175011.
+
+Producer 1 produced item: 1656478042.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1656478042.
+
+Consumer 0 consumed item: 2089018456.
+
+Producer 1 produced item: 1131176229.
+
+Producer 1 produced item: 1653377373.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1653377373.
+
+Producer 1 produced item: 859484421.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 859484421.
+
+Consumer 0 consumed item: 1131176229.
+
+Producer 1 produced item: 1914544919.
+
+Producer 1 produced item: 608413784.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 608413784.
+
+Consumer 1 consumed item: 1914544919.
+
+Consumer 1 consumed item: 2145174067.
+
+Consumer 1 consumed item: 233665123.
+
+Consumer 1 consumed item: 278722862.
+
+Consumer 1 consumed item: 861021530.
+
+Consumer 1 consumed item: 336465782.
+
+Consumer 0 consumed item: 1726956429.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 756898537.
+
+Producer 0 produced item: 1734575198.
+
+Producer 0 produced item: 1973594324.
+
+Producer 0 produced item: 149798315.
+
+Producer 0 produced item: 2038664370.
+
+Producer 0 produced item: 1129566413.
+
+Producer 0 produced item: 184803526.
+
+Producer 0 produced item: 412776091.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 412776091.
+
+Producer 0 produced item: 1424268980.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1424268980.
+
+Consumer 0 consumed item: 184803526.
+
+Consumer 0 consumed item: 1129566413.
+
+Consumer 0 consumed item: 2038664370.
+
+Consumer 0 consumed item: 149798315.
+
+Consumer 0 consumed item: 1973594324.
+
+Consumer 0 consumed item: 1734575198.
+
+Consumer 1 consumed item: 756898537.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1911759956.
+
+Producer 1 produced item: 749241873.
+
+Producer 1 produced item: 137806862.
+
+Producer 1 produced item: 42999170.
+
+Producer 1 produced item: 982906996.
+
+Producer 1 produced item: 135497281.
+
+Producer 1 produced item: 511702305.
+
+Producer 1 produced item: 2084420925.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 2084420925.
+
+Producer 1 produced item: 1937477084.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1937477084.
+
+Producer 1 produced item: 1827336327.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1827336327.
+
+Producer 1 produced item: 572660336.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 572660336.
+
+Consumer 1 consumed item: 511702305.
+
+Consumer 1 consumed item: 135497281.
+
+Consumer 1 consumed item: 982906996.
+
+Consumer 1 consumed item: 42999170.
+
+Consumer 1 consumed item: 137806862.
+
+Consumer 1 consumed item: 749241873.
+
+Consumer 1 consumed item: 1911759956.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1159126505.
+
+Producer 1 produced item: 805750846.
+
+Producer 1 produced item: 1632621729.
+
+Producer 1 produced item: 1100661313.
+
+Producer 1 produced item: 1433925857.
+
+Producer 1 produced item: 1141616124.
+
+Producer 1 produced item: 84353895.
+
+Producer 1 produced item: 939819582.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 939819582.
+
+Consumer 1 consumed item: 84353895.
+
+Consumer 1 consumed item: 1141616124.
+
+Consumer 1 consumed item: 1433925857.
+
+Consumer 1 consumed item: 1100661313.
+
+Consumer 1 consumed item: 1632621729.
+
+Consumer 1 consumed item: 805750846.
+
+Consumer 1 consumed item: 1159126505.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 2001100545.
+
+Consumer 1 consumed item: 2001100545.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1998898814.
+
+Producer 1 produced item: 1548233367.
+
+Producer 1 produced item: 610515434.
+
+Producer 1 produced item: 1585990364.
+
+Producer 1 produced item: 1374344043.
+
+Producer 1 produced item: 760313750.
+
+Producer 1 produced item: 1477171087.
+
+Producer 1 produced item: 356426808.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 356426808.
+
+Consumer 1 consumed item: 1477171087.
+
+Consumer 1 consumed item: 760313750.
+
+Consumer 1 consumed item: 1374344043.
+
+Consumer 1 consumed item: 1585990364.
+
+Consumer 1 consumed item: 610515434.
+
+Consumer 1 consumed item: 1548233367.
+
+Consumer 1 consumed item: 1998898814.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 945117276.
+
+Producer 1 produced item: 1889947178.
+
+Producer 1 produced item: 1780695788.
+
+Producer 1 produced item: 709393584.
+
+Producer 1 produced item: 491705403.
+
+Producer 1 produced item: 1918502651.
+
+Producer 1 produced item: 752392754.
+
+Producer 1 produced item: 1474612399.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1474612399.
+
+Consumer 1 consumed item: 752392754.
+
+Consumer 1 consumed item: 1918502651.
+
+Consumer 1 consumed item: 491705403.
+
+Consumer 1 consumed item: 709393584.
+
+Consumer 1 consumed item: 1780695788.
+
+Consumer 1 consumed item: 1889947178.
+
+Consumer 1 consumed item: 945117276.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 2053999932.
+
+Consumer 1 consumed item: 2053999932.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1264095060.
+
+Consumer 1 consumed item: 1264095060.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1411549676.
+
+Consumer 1 consumed item: 1411549676.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1843993368.
+
+Consumer 1 consumed item: 1843993368.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 943947739.
+
+Consumer 1 consumed item: 943947739.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1984210012.
+
+Producer 0 produced item: 855636226.
+
+Producer 0 produced item: 1749698586.
+
+Producer 0 produced item: 1469348094.
+
+Producer 0 produced item: 1956297539.
+
+Producer 0 produced item: 1036140795.
+
+Producer 0 produced item: 463480570.
+
+Producer 0 produced item: 2040651434.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 2040651434.
+
+Consumer 1 consumed item: 463480570.
+
+Consumer 1 consumed item: 1036140795.
+
+Consumer 1 consumed item: 1956297539.
+
+Consumer 1 consumed item: 1469348094.
+
+Consumer 1 consumed item: 1749698586.
+
+Consumer 1 consumed item: 855636226.
+
+Consumer 1 consumed item: 1984210012.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1975960378.
+
+Producer 0 produced item: 317097467.
+
+Producer 0 produced item: 1892066601.
+
+Producer 0 produced item: 1376710097.
+
+Producer 0 produced item: 927612902.
+
+Producer 0 produced item: 1330573317.
+
+Producer 0 produced item: 603570492.
+
+Producer 0 produced item: 1687926652.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1687926652.
+
+Consumer 1 consumed item: 603570492.
+
+Consumer 1 consumed item: 1330573317.
+
+Consumer 1 consumed item: 927612902.
+
+Consumer 1 consumed item: 1376710097.
+
+Consumer 1 consumed item: 1892066601.
+
+Consumer 1 consumed item: 317097467.
+
+Consumer 1 consumed item: 1975960378.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 660260756.
+
+Producer 0 produced item: 959997301.
+
+Producer 0 produced item: 485560280.
+
+Producer 0 produced item: 402724286.
+
+Producer 0 produced item: 593209441.
+
+producer thread: 0 ***********************exit**************************.
+
+Producer 1 produced item: 1194953865.
+
+Producer 1 produced item: 894429689.
+
+Producer 1 produced item: 364228444.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 364228444.
+
+Producer 1 produced item: 1947346619.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1947346619.
+
+Producer 1 produced item: 221558440.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 221558440.
+
+Producer 1 produced item: 270744729.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 270744729.
+
+Producer 1 produced item: 1063958031.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1063958031.
+
+Consumer 0 consumed item: 894429689.
+
+Consumer 0 consumed item: 1194953865.
+
+Consumer 1 consumed item: 593209441.
+
+Consumer 1 consumed item: 402724286.
+
+Consumer 1 consumed item: 485560280.
+
+Consumer 1 consumed item: 959997301.
+
+Consumer 1 consumed item: 660260756.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1633108117.
+
+Consumer 1 consumed item: 1633108117.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 2114738097.
+
+Producer 1 produced item: 2007905771.
+
+Producer 1 produced item: 1469834481.
+
+Producer 1 produced item: 822890675.
+
+producer thread: 1 ***********************exit**************************.
+
+Consumer 1 consumed item: 822890675.
+
+Consumer 1 consumed item: 1469834481.
+
+Consumer 1 consumed item: 2007905771.
+
+consumer thread: 1 ***********************exit**************************.
+
+Consumer 0 consumed item: 2114738097.
+
+consumer thread: 0 ***********************exit**************************.
+compute-26-1:/Project_0$ ./pc
+
+Enter the producers number:
+4
+
+Enter the consumers number:
+4
+
+Producer thread number 0 has been created
+
+Producer 0 produced item: 1804289383.
+
+Producer thread number 1 has been created
+
+Producer 0 produced item: 846930886.
+
+Producer 0 produced item: 1681692777.
+
+Producer 0 produced item: 1714636915.
+
+Producer thread number 2 has been created
+
+Producer 0 produced item: 1957747793.
+
+Producer 0 produced item: 424238335.
+
+Producer 2 produced item: 719885386.
+
+Producer thread number 3 has been created
+
+Producer 2 produced item: 1649760492.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer thread number 0 has been created
+
+Consumer 0 consumed item: 1649760492.
+
+Consumer 0 consumed item: 719885386.
+
+Consumer 0 consumed item: 424238335.
+
+Consumer thread number 1 has been created
+
+Consumer 0 consumed item: 1957747793.
+
+Consumer 0 consumed item: 1714636915.
+
+Consumer 0 consumed item: 1681692777.
+
+Consumer 0 consumed item: 846930886.
+
+Producer 3 produced item: 596516649.
+
+Consumer thread number 2 has been created
+
+Producer 3 produced item: 1189641421.
+
+Producer 3 produced item: 1025202362.
+
+Producer 1 produced item: 1350490027.
+
+Producer 1 produced item: 783368690.
+
+Consumer thread number 3 has been created
+
+Producer 1 produced item: 1102520059.
+
+Producer 1 produced item: 2044897763.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 2044897763.
+
+Consumer 0 consumed item: 1102520059.
+
+Consumer 0 consumed item: 783368690.
+
+Consumer 0 consumed item: 1350490027.
+
+Consumer 0 consumed item: 1025202362.
+
+Consumer 0 consumed item: 1189641421.
+
+Consumer 0 consumed item: 596516649.
+
+Consumer 0 consumed item: 1804289383.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 1967513926.
+
+Consumer 0 consumed item: 1967513926.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1365180540.
+
+Consumer 0 consumed item: 1365180540.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 1540383426.
+
+Producer 2 produced item: 304089172.
+
+Producer 2 produced item: 1303455736.
+
+Consumer 2 consumed item: 1303455736.
+
+Consumer 2 consumed item: 304089172.
+
+Consumer 2 consumed item: 1540383426.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 35005211.
+
+Consumer 2 consumed item: 35005211.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 521595368.
+
+Producer 0 produced item: 294702567.
+
+Producer 0 produced item: 1726956429.
+
+Producer 0 produced item: 336465782.
+
+Producer 0 produced item: 861021530.
+
+Producer 0 produced item: 278722862.
+
+Producer 0 produced item: 233665123.
+
+Producer 0 produced item: 2145174067.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 2 consumed item: 2145174067.
+
+Producer 0 produced item: 468703135.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 468703135.
+
+Consumer 0 consumed item: 233665123.
+
+Consumer 0 consumed item: 278722862.
+
+Consumer 0 consumed item: 861021530.
+
+Consumer 0 consumed item: 336465782.
+
+Consumer 0 consumed item: 1726956429.
+
+Consumer 0 consumed item: 294702567.
+
+Consumer 0 consumed item: 521595368.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1101513929.
+
+Consumer 0 consumed item: 1101513929.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 1801979802.
+
+Producer 2 produced item: 1315634022.
+
+Producer 2 produced item: 635723058.
+
+Producer 2 produced item: 1369133069.
+
+Producer 2 produced item: 1125898167.
+
+Producer 2 produced item: 1059961393.
+
+Producer 2 produced item: 2089018456.
+
+Producer 2 produced item: 628175011.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 628175011.
+
+Consumer 0 consumed item: 2089018456.
+
+Consumer 0 consumed item: 1059961393.
+
+Consumer 0 consumed item: 1125898167.
+
+Consumer 0 consumed item: 1369133069.
+
+Consumer 0 consumed item: 635723058.
+
+Consumer 0 consumed item: 1315634022.
+
+Consumer 0 consumed item: 1801979802.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1656478042.
+
+Producer 1 produced item: 1131176229.
+
+Producer 1 produced item: 1653377373.
+
+Producer 1 produced item: 859484421.
+
+Producer 1 produced item: 1914544919.
+
+Producer 1 produced item: 608413784.
+
+Producer 1 produced item: 756898537.
+
+Producer 1 produced item: 1734575198.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1734575198.
+
+Producer 1 produced item: 1973594324.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 2 consumed item: 1973594324.
+
+Consumer 2 consumed item: 756898537.
+
+Producer 1 produced item: 149798315.
+
+Producer 1 produced item: 2038664370.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 2038664370.
+
+Consumer 0 consumed item: 149798315.
+
+Producer 2 produced item: 1129566413.
+
+Producer 2 produced item: 184803526.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 2 consumed item: 184803526.
+
+Consumer 2 consumed item: 1129566413.
+
+Producer 2 produced item: 412776091.
+
+Producer 2 produced item: 1424268980.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1424268980.
+
+Consumer 0 consumed item: 412776091.
+
+Producer 2 produced item: 1911759956.
+
+Producer 2 produced item: 749241873.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 2 consumed item: 749241873.
+
+Consumer 2 consumed item: 1911759956.
+
+Consumer 2 consumed item: 608413784.
+
+Consumer 2 consumed item: 1914544919.
+
+Consumer 2 consumed item: 859484421.
+
+Consumer 2 consumed item: 1653377373.
+
+Consumer 2 consumed item: 1131176229.
+
+Consumer 2 consumed item: 1656478042.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 137806862.
+
+Producer 1 produced item: 42999170.
+
+Producer 1 produced item: 982906996.
+
+Producer 1 produced item: 135497281.
+
+Producer 1 produced item: 511702305.
+
+Producer 1 produced item: 2084420925.
+
+Producer 1 produced item: 1937477084.
+
+Producer 1 produced item: 1827336327.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 1827336327.
+
+Consumer 3 consumed item: 1937477084.
+
+Consumer 3 consumed item: 2084420925.
+
+Consumer 3 consumed item: 511702305.
+
+Consumer 3 consumed item: 135497281.
+
+Consumer 3 consumed item: 982906996.
+
+Consumer 3 consumed item: 42999170.
+
+Consumer 3 consumed item: 137806862.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 572660336.
+
+Consumer 3 consumed item: 572660336.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1159126505.
+
+Producer 0 produced item: 805750846.
+
+Producer 0 produced item: 1632621729.
+
+Producer 0 produced item: 1100661313.
+
+Producer 0 produced item: 1433925857.
+
+Producer 0 produced item: 1141616124.
+
+Producer 0 produced item: 84353895.
+
+Producer 0 produced item: 939819582.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 939819582.
+
+Consumer 3 consumed item: 84353895.
+
+Consumer 3 consumed item: 1141616124.
+
+Consumer 3 consumed item: 1433925857.
+
+Consumer 3 consumed item: 1100661313.
+
+Consumer 3 consumed item: 1632621729.
+
+Consumer 3 consumed item: 805750846.
+
+Consumer 3 consumed item: 1159126505.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 2001100545.
+
+Producer 3 produced item: 1998898814.
+
+Producer 3 produced item: 1548233367.
+
+Producer 3 produced item: 610515434.
+
+Producer 3 produced item: 1585990364.
+
+Producer 3 produced item: 1374344043.
+
+Producer 3 produced item: 760313750.
+
+Producer 3 produced item: 1477171087.
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1477171087.
+
+Consumer 0 consumed item: 760313750.
+
+Consumer 1 consumed item: 1374344043.
+
+Consumer 1 consumed item: 1585990364.
+
+Consumer 1 consumed item: 610515434.
+
+Consumer 1 consumed item: 1548233367.
+
+Consumer 1 consumed item: 1998898814.
+
+Consumer 1 consumed item: 2001100545.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 356426808.
+
+Producer 0 produced item: 945117276.
+
+Producer 0 produced item: 1889947178.
+
+Producer 0 produced item: 1780695788.
+
+Producer 0 produced item: 709393584.
+
+Producer 0 produced item: 491705403.
+
+Producer 0 produced item: 1918502651.
+
+Producer 0 produced item: 752392754.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 752392754.
+
+Producer 0 produced item: 1474612399.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1474612399.
+
+Producer 1 produced item: 2053999932.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 2053999932.
+
+Consumer 3 consumed item: 1918502651.
+
+Consumer 3 consumed item: 491705403.
+
+Consumer 3 consumed item: 709393584.
+
+Consumer 3 consumed item: 1780695788.
+
+Consumer 3 consumed item: 1889947178.
+
+Consumer 3 consumed item: 945117276.
+
+Consumer 3 consumed item: 356426808.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 1264095060.
+
+Producer 3 produced item: 1411549676.
+
+Producer 3 produced item: 1843993368.
+
+Producer 3 produced item: 943947739.
+
+Producer 3 produced item: 1984210012.
+
+Producer 3 produced item: 855636226.
+
+Producer 3 produced item: 1749698586.
+
+Producer 3 produced item: 1469348094.
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1469348094.
+
+Consumer 1 consumed item: 1749698586.
+
+Consumer 1 consumed item: 855636226.
+
+Consumer 1 consumed item: 1984210012.
+
+Consumer 1 consumed item: 943947739.
+
+Consumer 1 consumed item: 1843993368.
+
+Consumer 1 consumed item: 1411549676.
+
+Consumer 1 consumed item: 1264095060.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1956297539.
+
+Producer 0 produced item: 1036140795.
+
+Producer 0 produced item: 463480570.
+
+Producer 0 produced item: 2040651434.
+
+Producer 0 produced item: 1975960378.
+
+Producer 0 produced item: 317097467.
+
+Producer 0 produced item: 1892066601.
+
+Producer 0 produced item: 1376710097.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 1376710097.
+
+Consumer 3 consumed item: 1892066601.
+
+Consumer 3 consumed item: 317097467.
+
+Consumer 3 consumed item: 1975960378.
+
+Consumer 3 consumed item: 2040651434.
+
+Consumer 3 consumed item: 463480570.
+
+Consumer 3 consumed item: 1036140795.
+
+Consumer 3 consumed item: 1956297539.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 927612902.
+
+Producer 3 produced item: 1330573317.
+
+Producer 3 produced item: 603570492.
+
+Producer 3 produced item: 1687926652.
+
+Producer 3 produced item: 660260756.
+
+Producer 3 produced item: 959997301.
+
+Producer 3 produced item: 485560280.
+
+Producer 3 produced item: 402724286.
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 402724286.
+
+Consumer 1 consumed item: 485560280.
+
+Consumer 1 consumed item: 959997301.
+
+Consumer 1 consumed item: 660260756.
+
+Consumer 1 consumed item: 1687926652.
+
+Consumer 1 consumed item: 603570492.
+
+Consumer 1 consumed item: 1330573317.
+
+Consumer 1 consumed item: 927612902.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 593209441.
+
+Producer 1 produced item: 1194953865.
+
+Producer 1 produced item: 894429689.
+
+Producer 1 produced item: 364228444.
+
+Producer 1 produced item: 1947346619.
+
+Producer 1 produced item: 221558440.
+
+Producer 1 produced item: 270744729.
+
+Producer 1 produced item: 1063958031.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 2 consumed item: 1063958031.
+
+Consumer 2 consumed item: 270744729.
+
+Consumer 2 consumed item: 221558440.
+
+Consumer 2 consumed item: 1947346619.
+
+Consumer 2 consumed item: 364228444.
+
+Consumer 2 consumed item: 894429689.
+
+Consumer 2 consumed item: 1194953865.
+
+Consumer 2 consumed item: 593209441.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1633108117.
+
+Producer 0 produced item: 2114738097.
+
+Producer 0 produced item: 2007905771.
+
+Producer 0 produced item: 1469834481.
+
+Producer 0 produced item: 822890675.
+
+Producer 0 produced item: 1610120709.
+
+Producer 0 produced item: 791698927.
+
+Producer 0 produced item: 631704567.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 631704567.
+
+Consumer 0 consumed item: 791698927.
+
+Consumer 0 consumed item: 1610120709.
+
+Consumer 0 consumed item: 822890675.
+
+Consumer 0 consumed item: 1469834481.
+
+Consumer 0 consumed item: 2007905771.
+
+Consumer 0 consumed item: 2114738097.
+
+Consumer 0 consumed item: 1633108117.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 498777856.
+
+Consumer 0 consumed item: 498777856.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 1255179497.
+
+Producer 2 produced item: 524872353.
+
+Producer 2 produced item: 327254586.
+
+Producer 2 produced item: 1572276965.
+
+Producer 2 produced item: 269455306.
+
+Producer 2 produced item: 1703964683.
+
+Producer 2 produced item: 352406219.
+
+Producer 2 produced item: 1600028624.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1600028624.
+
+Consumer 0 consumed item: 352406219.
+
+Consumer 0 consumed item: 1703964683.
+
+Consumer 0 consumed item: 269455306.
+
+Consumer 0 consumed item: 1572276965.
+
+Consumer 0 consumed item: 327254586.
+
+Consumer 0 consumed item: 524872353.
+
+Consumer 0 consumed item: 1255179497.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 160051528.
+
+Producer 3 produced item: 2040332871.
+
+Producer 3 produced item: 112805732.
+
+Producer 3 produced item: 1120048829.
+
+Producer 3 produced item: 378409503.
+
+Producer 3 produced item: 515530019.
+
+Producer 3 produced item: 1713258270.
+
+Producer 3 produced item: 1573363368.
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 1573363368.
+
+Consumer 3 consumed item: 1713258270.
+
+Consumer 3 consumed item: 515530019.
+
+Consumer 3 consumed item: 378409503.
+
+Consumer 3 consumed item: 1120048829.
+
+Consumer 3 consumed item: 112805732.
+
+Consumer 3 consumed item: 2040332871.
+
+Consumer 3 consumed item: 160051528.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1409959708.
+
+Producer 0 produced item: 2077486715.
+
+Producer 0 produced item: 1373226340.
+
+Producer 0 produced item: 1631518149.
+
+Producer 0 produced item: 200747796.
+
+Producer 0 produced item: 289700723.
+
+Producer 0 produced item: 1117142618.
+
+Producer 0 produced item: 168002245.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 168002245.
+
+Producer 0 produced item: 150122846.
+
+Producer 0 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 150122846.
+
+Producer 1 produced item: 439493451.
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 439493451.
+
+Consumer 3 consumed item: 1117142618.
+
+Consumer 3 consumed item: 289700723.
+
+Consumer 3 consumed item: 200747796.
+
+Consumer 3 consumed item: 1631518149.
+
+Consumer 3 consumed item: 1373226340.
+
+Consumer 3 consumed item: 2077486715.
+
+Consumer 3 consumed item: 1409959708.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 990892921.
+
+Producer 3 produced item: 1760243555.
+
+Producer 3 produced item: 1231192379.
+
+Producer 3 produced item: 1622597488.
+
+Producer 3 produced item: 111537764.
+
+Producer 3 produced item: 338888228.
+
+Producer 3 produced item: 2147469841.
+
+Producer 3 produced item: 438792350.
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 438792350.
+
+Consumer 0 consumed item: 2147469841.
+
+Consumer 0 consumed item: 338888228.
+
+Consumer 0 consumed item: 111537764.
+
+Consumer 0 consumed item: 1622597488.
+
+Consumer 0 consumed item: 1231192379.
+
+Consumer 0 consumed item: 1760243555.
+
+Consumer 0 consumed item: 990892921.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 0 produced item: 1911165193.
+
+Producer 0 produced item: 269441500.
+
+Producer 0 produced item: 2142757034.
+
+Producer 0 produced item: 116087764.
+
+Producer 0 produced item: 1869470124.
+
+Producer 0 produced item: 155324914.
+
+producer thread: 0 ***********************exit**************************.
+
+Producer 2 produced item: 8936987.
+
+Producer 2 produced item: 1982275856.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 1982275856.
+
+Consumer 3 consumed item: 8936987.
+
+Consumer 3 consumed item: 155324914.
+
+Consumer 3 consumed item: 1869470124.
+
+Consumer 3 consumed item: 116087764.
+
+Consumer 3 consumed item: 2142757034.
+
+Consumer 3 consumed item: 269441500.
+
+Consumer 3 consumed item: 1911165193.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1275373743.
+
+Producer 1 produced item: 387346491.
+
+Producer 1 produced item: 350322227.
+
+Consumer 0 consumed item: 350322227.
+
+Consumer 0 consumed item: 387346491.
+
+Consumer 0 consumed item: 1275373743.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 841148365.
+
+Consumer 0 consumed item: 841148365.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1960709859.
+
+Consumer 1 consumed item: 1960709859.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1760281936.
+
+Consumer 0 consumed item: 1760281936.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 771151432.
+
+Consumer 3 consumed item: 771151432.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1186452551.
+
+Consumer 2 consumed item: 1186452551.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1244316437.
+
+Consumer 1 consumed item: 1244316437.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 971899228.
+
+Consumer 0 consumed item: 971899228.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1476153275.
+
+Consumer 3 consumed item: 1476153275.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 213975407.
+
+Consumer 2 consumed item: 213975407.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1139901474.
+
+Consumer 1 consumed item: 1139901474.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1626276121.
+
+Consumer 0 consumed item: 1626276121.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 653468858.
+
+Consumer 3 consumed item: 653468858.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 2130794395.
+
+Consumer 2 consumed item: 2130794395.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1239036029.
+
+Consumer 1 consumed item: 1239036029.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1884661237.
+
+Consumer 0 consumed item: 1884661237.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1605908235.
+
+Consumer 3 consumed item: 1605908235.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1350573793.
+
+Consumer 2 consumed item: 1350573793.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 76065818.
+
+Consumer 1 consumed item: 76065818.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1605894428.
+
+Producer 1 produced item: 1789366143.
+
+Producer 1 produced item: 1987231011.
+
+Producer 1 produced item: 1875335928.
+
+Consumer 1 consumed item: 1875335928.
+
+Consumer 1 consumed item: 1987231011.
+
+Consumer 1 consumed item: 1789366143.
+
+Consumer 1 consumed item: 1605894428.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1784639529.
+
+Consumer 1 consumed item: 1784639529.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 2103318776.
+
+Producer 2 produced item: 1597322404.
+
+Producer 2 produced item: 1939964443.
+
+Producer 2 produced item: 2112255763.
+
+Producer 2 produced item: 1432114613.
+
+Producer 2 produced item: 1067854538.
+
+Producer 2 produced item: 352118606.
+
+Producer 2 produced item: 1782436840.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Producer 1 found the buffer is full and waiting for a consumer to consume!
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 1782436840.
+
+Producer 2 produced item: 1909002904.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1909002904.
+
+Consumer 0 consumed item: 352118606.
+
+Consumer 0 consumed item: 1067854538.
+
+Producer 2 produced item: 165344818.
+
+Producer 2 produced item: 1395235128.
+
+Producer 2 produced item: 532670688.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 532670688.
+
+Consumer 1 consumed item: 1395235128.
+
+Consumer 1 consumed item: 165344818.
+
+Consumer 1 consumed item: 1432114613.
+
+Consumer 1 consumed item: 2112255763.
+
+Consumer 1 consumed item: 1939964443.
+
+Consumer 1 consumed item: 1597322404.
+
+Consumer 1 consumed item: 2103318776.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 1 produced item: 1351797369.
+
+Producer 1 produced item: 492067917.
+
+Producer 1 produced item: 1504569917.
+
+producer thread: 1 ***********************exit**************************.
+
+Producer 2 produced item: 680466996.
+
+Producer 2 produced item: 706043324.
+
+Producer 2 produced item: 496987743.
+
+Producer 2 produced item: 159259470.
+
+Producer 2 produced item: 1359512183.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 1359512183.
+
+Consumer 0 consumed item: 159259470.
+
+Consumer 0 consumed item: 496987743.
+
+Consumer 0 consumed item: 706043324.
+
+Consumer 0 consumed item: 680466996.
+
+Consumer 0 consumed item: 1504569917.
+
+Consumer 0 consumed item: 492067917.
+
+Consumer 0 consumed item: 1351797369.
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 480298490.
+
+Producer 3 produced item: 1398295499.
+
+Producer 3 produced item: 1096689772.
+
+Producer 3 produced item: 2086206725.
+
+Producer 3 produced item: 601385644.
+
+Producer 3 produced item: 1172755590.
+
+Producer 3 produced item: 1544617505.
+
+Producer 3 produced item: 243268139.
+
+Producer 3 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 3 consumed item: 243268139.
+
+Consumer 3 consumed item: 1544617505.
+
+Consumer 3 consumed item: 1172755590.
+
+Consumer 3 consumed item: 601385644.
+
+Consumer 3 consumed item: 2086206725.
+
+Consumer 3 consumed item: 1096689772.
+
+Consumer 3 consumed item: 1398295499.
+
+Consumer 3 consumed item: 480298490.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 1012502954.
+
+Producer 3 produced item: 1272469786.
+
+Consumer 1 consumed item: 1272469786.
+
+Consumer 1 consumed item: 1012502954.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 2027907669.
+
+Consumer 1 consumed item: 2027907669.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 968338082.
+
+Producer 3 produced item: 722308542.
+
+Consumer 1 consumed item: 722308542.
+
+Consumer 1 consumed item: 968338082.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 1820388464.
+
+Producer 3 produced item: 933110197.
+
+Consumer 1 consumed item: 933110197.
+
+Consumer 1 consumed item: 1820388464.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 6939507.
+
+Consumer 1 consumed item: 6939507.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 740759355.
+
+Consumer 3 consumed item: 740759355.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 1285228804.
+
+Consumer 1 consumed item: 1285228804.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 1789376348.
+
+Consumer 2 consumed item: 1789376348.
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 502278611.
+
+Consumer 3 consumed item: 502278611.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 3 produced item: 1450573622.
+
+producer thread: 3 ***********************exit**************************.
+
+Consumer 1 consumed item: 1450573622.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 0 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 1037127828.
+
+Producer 2 produced item: 1034949299.
+
+Consumer 3 consumed item: 1034949299.
+
+Consumer 3 consumed item: 1037127828.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 654887343.
+
+Consumer 1 consumed item: 654887343.
+
+Consumer 1 found the buffer is empty and waiting for a producer to produce!
+
+Consumer 2 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 1529195746.
+
+Producer 2 produced item: 392035568.
+
+Producer 2 produced item: 1335354340.
+
+Producer 2 produced item: 87755422.
+
+Producer 2 produced item: 889023311.
+
+Producer 2 produced item: 1494613810.
+
+Producer 2 produced item: 1447267605.
+
+Producer 2 produced item: 1369321801.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 1 consumed item: 1369321801.
+
+Producer 2 produced item: 745425661.
+
+Producer 2 found the buffer is full and waiting for a consumer to consume!
+
+Consumer 0 consumed item: 745425661.
+
+Consumer 0 consumed item: 1447267605.
+
+Consumer 0 consumed item: 1494613810.
+
+Consumer 0 consumed item: 889023311.
+
+Consumer 0 consumed item: 87755422.
+
+Consumer 0 consumed item: 1335354340.
+
+Consumer 0 consumed item: 392035568.
+
+Consumer 0 consumed item: 1529195746.
+
+consumer thread: 0 ***********************exit**************************.
+
+Consumer 3 found the buffer is empty and waiting for a producer to produce!
+
+Producer 2 produced item: 396473730.
+
+Producer 2 produced item: 1308044878.
+
+Producer 2 produced item: 1346811305.
+
+producer thread: 2 ***********************exit**************************.
+
+Consumer 3 consumed item: 1346811305.
+
+consumer thread: 3 ***********************exit**************************.
+
+Consumer 1 consumed item: 1308044878.
+
+consumer thread: 1 ***********************exit**************************.
+
+Consumer 2 consumed item: 396473730.
+
+consumer thread: 2 ***********************exit**************************.
+compute-26-1:/Project_0$ 
