@@ -6,3 +6,4 @@ Open Terminal.
 Redirect to the project directory "cd Directory". 
 Build the project "make". 
 Run the project "./pc". 
+
